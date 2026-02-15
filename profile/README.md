@@ -1,5 +1,5 @@
 <div align="center">
-
+<img alt="rock" title="rock" src="asset/logo.png" width="450">
 
 # 🎸 희로애 rock (Huiroae-rock)
 **음악에 맞는 앨범 커버 생성 서비스**
