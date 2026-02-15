@@ -62,26 +62,26 @@ LLM을 활용하여 노래 가사의 핵심 주제를 요약하고, 프롬프트
         <img src="https://github.com/user-attachments/assets/020634e2-dacc-42e1-9872-9abf83413c4d" width="100px" style="border-radius:50%"/>
       </a>
       <br />
-      <b>조현진</b>
+      <b>조현진(팀장)</b>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/HYU-KDK">
         <img src="https://github.com/user-attachments/assets/adc42753-09de-4202-8cff-3fba401761be" width="100px" style="border-radius:50%"/>
       </a>
       <br />
-      <b>김동기</b>
+      <b>김동기(개발)</b>
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/lee-yeonseo">
         <img src="https://github.com/user-attachments/assets/985a02c7-760c-465a-b466-91defb02d5b4" width="100px" style="border-radius:50%"/>
       </a>
       <br />
-      <b>이연서</b>
+      <b>이연서(개발)</b>
     </td>
     <td align="center" width="150px">
       <img src="https://github.com/user-attachments/assets/b07f5a8d-9982-4269-8a98-1911cf756c78" width="100px" style="border-radius:50%"/>
       <br />
-      <b>정수현</b>
+      <b>정수현(디자이너)</b>
     </td>
 </table>
 
